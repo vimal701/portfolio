@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on VIMAL RAMESH </title>
+    <link>https://vimal701.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on VIMAL RAMESH </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://vimal701.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disaster_NLP</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 30 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-2/</guid>
+      <description>Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).But, it’s not always clear whether a person’s words are actually announcing a disaster.
+ Used various algorithms for classifying the tweets such as Naive_bayes, LogisticRegression, DecisionTreeClassifier. But the results dosen&amp;rsquo;t seem satisfying.</description>
+    </item>
+    
+    <item>
+      <title>Amazon-Reviews</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 29 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-1/</guid>
+      <description>Created a tool to predict a review whether that&amp;rsquo;s a positive or negative review. Downloaded approximately 10000 reviews from amazon in jason format. converted the imbalanced dataset into a balanced dataset.(Making equal number of positive and negative reviews in both training and testing datas for better performance of the model) Applied all the basic text preprocessing methods for cleaning the reviews and to feed the model in an efficient manner&amp;gt; Allocated 33% of data for testing our model and rest of the data for the training purpose Converted the reviews into numerical values with the help of TfidfVectorizer Term Frequency: This summarizes how often a given word appears within a document.</description>
+    </item>
+    
+    <item>
+      <title>Company Sales</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-7/</link>
+      <pubDate>Mon, 25 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-7/</guid>
+      <description>We start by cleaning our data. Tasks during this section include: Drop NaN values from DataFrame Removing rows based on a condition Change the type of columns (to_numeric, to_datetime, astype) Once we have cleaned up our data a bit, we move the data exploration section.
+In this section we explore 5 high level business questions related to our data:
+ What was the best month for sales? How much was earned that month?</description>
+    </item>
+    
+    <item>
+      <title>Loan_status</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-6/</link>
+      <pubDate>Mon, 25 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-6/</guid>
+      <description>In this project I am Clubbing two projects. One, to predict whether the Loan will be approved or not based on various features. Second, whether the person will repay the loan or not if in case his loan has been approved.  Link for Loan approval
+Link for Loan defaulters</description>
+    </item>
+    
+    <item>
+      <title>Stock prediction</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-5/</link>
+      <pubDate>Thu, 21 May 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-5/</guid>
+      <description>Graph     A Machine Learning Model for Stock Market Prediction. Stock market prediction is the act of trying to determine the future value of a company stock or other financial instrument traded on a financial exchange Here, unlike in other projects I am using the previous ten days open price to predict eleventh day&amp;rsquo;s price. And repeating the for the entire dataset. This is the way of training my Model.</description>
+    </item>
+    
+    <item>
+      <title>Housing Prices</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Sat, 16 May 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-4/</guid>
+      <description>A well know kaggle competition Dataset has 79 explanatory variables describing (almost) every aspect of residential homes, this project is to predict the final price of each home. Implemented various Feature Engineering techniques, for better accuracy Model is trained using neural networks. Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price  Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>SMS Spam Prediction</title>
+      <link>https://vimal701.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 11 May 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://vimal701.github.io/portfolio/post/chapter-3/</guid>
+      <description>This is a project based on Natural Language Processing (NLP), I chose the SMS Spam Collection Dataset.It contains the text of 5572 SMS messages and a label, classifying the message as &amp;ldquo;spam&amp;rdquo; or &amp;ldquo;ham&amp;rdquo;.
+In this project I explore some common techniques of NLP like:
+ Removing Punctuation and Stopwords Tokenizer, Bag of words Term frequency inverse document frequency (TFIDF)  Based on these preprocessing, I trained a Naive Bayes Classifier model that classify unknown messages as spam or ham.</description>
+    </item>
+    
+  </channel>
+</rss>
